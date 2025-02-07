@@ -4,21 +4,23 @@ Final project for the Building AI course
 
 ## Summary
 
-Ir a um mercado de pulgas pode ser muito interessante, mas nao entender o preço das coisas, nem qualquer informaçao sobre 95% dos itens transforma a atraçao em uma certa perca de tempo.
+Uma Ai assistente conectada em um oculos VR ou um rayban que reconhece itens em feiras de pulgas ou mercados de segunda mao e lhe da informaçoes na propria lente do oculos
 
 
 ## Background
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
-This is how you make a list, if you need one:
+
 * Nao ter ideia do valor
 * nao saber informação sobre um item
 * raridade
 * Autenticidade
+* Perca de tempo
+* 
 * 
 
-gfwgfgsd
+
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
