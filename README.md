@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-Visiting second-hand stores or flea markets is fun, but determining item values can be tricky. This idea uses AI and eBay sales datas to analyze and predict prices, helping buyers and sellers make smarter decisions in the second-hand market.
+Ir a um mercado de pulgas pode ser muito interessante, mas nao entender o preço das coisas, nem qualquer informaçao sobre 95% dos itens transforma a atraçao em uma certa perca de tempo.
 
 
 ## Background
@@ -12,9 +12,11 @@ Visiting second-hand stores or flea markets is fun, but determining item values 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
 This is how you make a list, if you need one:
-* Dont know if the item its expensive
-* problem 2
-* etc.
+* Nao ter ideia do valor
+* nao saber informação sobre um item
+* raridade
+* Autenticidade
+* 
 
 gfwgfgsd
 ## How is it used?
