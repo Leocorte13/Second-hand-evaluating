@@ -24,6 +24,8 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 ## How is it used?
 
 Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+Uma pessoa coloca seu oculos com a assistente, e vai a feira de pulgas, la ela encontra um item que lhe atrai a atençao, logo a assistente recolhe informaçoes na base de dados sobre o item, como preço, raridade, o que é, possivel idade, legitimidade, etc
+os usuarios podem ser revendedores, colecionadores, pessoas normais, etc
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
@@ -55,6 +57,8 @@ main()
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
+(EBAY API) ainda nao sei
+
 
 | Syntax      | Description |
 | ----------- | ----------- |
